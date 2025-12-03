@@ -1,0 +1,5 @@
+{
+  "name": "Gmail Address Variator",
+  "description": "A lightweight web application to generate various casing and numerical suffix variations for a base Gmail address. Note: Gmail is case-insensitive and ignores dots in the username, so many generated variations will resolve to the same email address.",
+  "requestFramePermissions": []
+}
